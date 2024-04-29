@@ -1,6 +1,6 @@
 package PerlCartonTest;
 
-our $VERSION = '0.0.4';
+our $VERSION = '0.0.5';
 
 sub new {
     return bless {}, shift;
