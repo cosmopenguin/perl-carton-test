@@ -2,5 +2,5 @@ use ExtUtils::MakeMaker;
  
 WriteMakefile(
     NAME              => "PerlCartonTest",
-    VERSION_FROM      => "PerlCartonTest.pm",
+    VERSION_FROM      => "lib/PerlCartonTest.pm",
 );
